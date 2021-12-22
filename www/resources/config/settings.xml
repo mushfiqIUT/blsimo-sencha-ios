@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <app>
+    <all>resources/images/appimages/rsz_map-icon-default.png</all>
+    <cafe>resources/images/appimages/rsz_map-icon-parlour.png</cafe>
+    <store>resources/images/appimages/rsz_map-icon-super-store.png</store>
+    <restaurant>resources/images/appimages/rsz_map-icon-restaurant.png</restaurant>
+    <closest_per_cat>
+        <value>10</value>
+        <value>20</value>
+        <value>30</value>
+    </closest_per_cat>
+  </app>
+</settings>
